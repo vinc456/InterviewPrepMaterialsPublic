@@ -1,0 +1,113 @@
+Feb 27 2019 
+Hal Mars University Specialist
+
+Googley fact: five teams two different offices. maps
+shared features
+
+free food
+perks. happy employees are productive employees
+benefits are to create good working environment.
+
+What do google employees do?
+in addition to coding
+meetings, sync, design
+design.
+Tech talks. what people are doing.
+
+pinterviews
+email, tests, code review, meetings, bug/feature requests, design new features
+attend talks/events
+talking to teammates interacting and collaborating
+
+communication skills
+working with a team.
+
+work management
+team OKRs (objectives and key results)
+requirements from tech lead and/or pm
+design docs
+bug lists
+team defines their own processes
+open communication and brainstorming
+sync meetings to discuss progress
+
+teams define their own process
+everybody is communicating anad understands objectives and teammates
+
+writing and testing code
+writing tests
+code review
+address comments
+check in code
+
+code review process mandatory
+at least 1 other person
+reviewer/author must have "readabiliity"
+enforces code health, good design (with low maintenance cost) adequate testing and adherence to style guidelines
+
+code changes put into a changelist
+reviews should be critical and constructive
+
+consistent codestyles
+
+confident code not break build
+constructive
+tell coworker
+not super nitpicky not your personal style things unless it's in the style guide
+
+colleagues - you need to do it this way
+style guide.
+
+Deploying code
+dev/test - fake data to test and develop
+staging - use real data to validate features before releasing externally. traffic spiking because you broke threshold. safety feature not to roll things out to billions
+prod - externally available
+
+different teams/diff speeds
+Daily, longer.
+
+Android - not staging luxury. go straight from devlopment to play store.
+
+handles high traffic
+completes requests with low latency. more users!
+colocated with dependent services. live closer together.
+mmultihomed/replicated in case of failure. traffic gracefully fail so that users don't notice
+secure?? sensitive user data. 
+handles user data and privacy responsibly. not mishandling data.
+accessible for all users? blind 
+can be used internationally? not english
+
+A lot of infrastructure.
+how to gracefully fail if something falls over
+accessibility guideline
+
+Google scale, gigantic impact per line of code.
+
+
+Skills learned on the job:
+Code: design and develop elegant maintainable code. can be taught on the job.
+Full-stack development: exercising industry best practices for design paterns, testing and development. where do i fit into the greater picture?
+Resourcefullness: leveraging a broad range of skills tools and team members to accomplish projects. somebody has built it you just need to find that team.
+Leadership: taking on new challenges growing ownership of critical projects. growing, more features, where is it going and how to make it successful.
+Scalability: building and deploying robust architectures at scale. work for 100 to a million people. don't want to rewrite it because of scaling issues.
+
+Editors:
+learn the shortcuts, customize it
+choose one learn it well
+learn the shortcuts customize it
+
+Source control:
+diff and merge tools
+code reviews
+rollbacks
+restoring prior (working) state
+experiments
+Collaboration with peers.
+custom source control system for the massive database.
+
+
+
+
+
+
+
